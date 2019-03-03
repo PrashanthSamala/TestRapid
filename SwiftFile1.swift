@@ -17,3 +17,8 @@ func addition() -> Int {
     let y = 4
     return x+y
 }
+func multiplication() -> Int {
+    let x = 2
+    let y = 4
+    return x+y
+}
