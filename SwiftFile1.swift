@@ -11,3 +11,9 @@ import CoreData
 import UIKit
 import Krishna
 import Radha
+
+func addition() -> Int {
+    let x = 2
+    let y = 4
+    return x+y
+}
