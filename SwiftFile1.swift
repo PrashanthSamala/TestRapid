@@ -29,3 +29,8 @@ func multiplication() -> Int {
     let y = 4
     return x+y
 }
+func SquareRootByKrishnaBranch() -> Int {
+    let x = 2
+    let y = 4
+    return x+y
+}
